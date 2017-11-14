@@ -1,1 +1,1 @@
-# ArduionThingSpeak
+# 利用ESP8226的模組連線到 thingspeak 網站,並將讀取到的濕度資料上傳到網站中
